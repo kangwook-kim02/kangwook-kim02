@@ -4,7 +4,7 @@
 </p>
 
 <!-- 소개 문구 -->
-<h3 align="center">🚀 Backend Developer | 💡 Network Traffic & AI Enthusiast</h3>
+<h3 align="center">🚀 Backend Developer | 💡 Network Traffic Analysis with ML&DL Enthusiast</h3>
 <p align="center">
   Passionate about building scalable backend systems and analyzing encrypted traffic using Machine Learning.
 </p>
