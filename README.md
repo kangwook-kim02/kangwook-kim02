@@ -28,9 +28,6 @@
 
 - 🌱 Currently learning **Spring Boot**, **ML/DL**, and **Network Security**
 - 🛠 Interested in building efficient backends and understanding encrypted traffic
-- 💬 Ask me about **backend**, **C++**, or **Linux servers**
-- 📚 Solved over **600+ algorithm problems** on Baekjoon
-
 ---
 
 ## 📚 TECH STACKS
@@ -65,14 +62,3 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats & Algorithm Profile
-
-<p align="center">
-  <a href="https://github.com/kangwook-kim02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangwook-kim02&layout=compact&theme=default">
-  </a>
-  <a href="https://solved.ac/ices17">
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=ices17">
-  </a>
-</p>
