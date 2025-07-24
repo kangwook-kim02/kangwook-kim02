@@ -1,3 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Kangwook%20Kim👨‍💻&fontSize=40&fontAlign=60&fontColor=ffffff" alt="header"/>
+
+<h3 align="center">🚀 Aspiring Backend Developer | 💡 Passionate about AI x Network</h3>
+
+<p align="center">
+  <a href="mailto:kangwook@example.com"><img src="https://img.shields.io/badge/email-kangwook@example.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/kangwook-kim02"><img src="https://img.shields.io/badge/github-kangwook--kim02-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://solved.ac/ices17"><img src="https://img.shields.io/badge/solved.ac-ices17-1e90ff?style=flat-square&logo=baidu&logoColor=white"/></a>
+</p>
+
+---
+
+🌱 I'm currently learning **Spring Boot**, **MMoE**, and **Network Security**  
+🛠 I love building efficient backend systems and solving algorithmic problems  
+💬 Ask me about backend development, C++, or Linux server stuff!
+
+
+
+---
+
 <h1 align="center">📚 STACKS</h1>
 
 ---
