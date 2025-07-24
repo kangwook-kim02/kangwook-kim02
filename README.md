@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Kangwook%20Kim👨‍💻&fontSize=40&fontAlign=60&fontColor=ffffff" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=400&section=header&text=Kangwook%20Kim👨‍💻&fontSize=40&fontAlign=60&fontColor=ffffff" alt="header"/>
 
 <h3 align="center">🚀 Aspiring Backend Developer | 💡 Passionate about AI x Network</h3>
 
