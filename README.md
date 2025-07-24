@@ -17,7 +17,7 @@
   <a href="https://solved.ac/ices17">
     <img src="https://img.shields.io/badge/solved.ac-ices17-1e90ff?style=flat&logo=baidu&logoColor=white"/>
   </a>
-  <a href="https://github.com/kangwook-kim02">
+  <a href="https://github.com/k1mkangwook">
     <img src="https://img.shields.io/badge/github-kangwook--kim02-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
