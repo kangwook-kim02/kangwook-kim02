@@ -41,9 +41,6 @@
 
 ### 📊 Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangwook-kim02">
-  </a>
   <a href="https://solved.ac/ices17">
     <img src="https://mazassumnida.wtf/api/generate_badge?boj=ices17">
   </a>
