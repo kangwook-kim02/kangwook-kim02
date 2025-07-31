@@ -5,8 +5,9 @@
 
 <!-- 소개 문구 -->
 <h3 align="center">🚀 Backend Developer </h3>
+
 <p align="center">
-  <h3>🧪 Research : Encrypted Network Traffic Analysis with Multi-task learning model</h3>
+  <h3 align="center">🧪 Research : Encrypted Network Traffic Analysis with Multi-task learning model</h3>
 </p>
 
 <!-- 링크 뱃지 -->
