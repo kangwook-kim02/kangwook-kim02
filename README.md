@@ -4,7 +4,7 @@
 </p>
 
 <!-- 소개 문구 -->
-<h3 align="center">🚀 Backend Developer </h3>
+<h3 align="center">🚀 Load to Expert </h3>
 
 <p align="center">
   <h3 align="center">🧪 Research : Encrypted Network Traffic Analysis with Multi-task learning model</h3>
@@ -36,7 +36,6 @@
 ### 🌐 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
