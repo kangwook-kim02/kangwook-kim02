@@ -4,7 +4,7 @@
 </p>
 
 <!-- 소개 문구 -->
-<h3 align="center">🚀 Load to Expert </h3>
+<h3 align="center">🚀 Road to Expert </h3>
 
 <p align="center">
   <h3 align="center">🧪 Research : Encrypted Network Traffic Analysis with Multi-task learning model</h3>
