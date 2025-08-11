@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Road to Expert </h3>
 
 <p align="center">
-  <h3 align="center">🧪 Research : Encrypted Network Traffic Analysis with Multi-task learning model</h3>
+  <h3 align="center"></h3>
 </p>
 
 <!-- 링크 뱃지 -->
@@ -27,8 +27,8 @@
 
 ### 🧠 About Me
 
-- 🌱 Currently learning **Spring Boot**, **ML/DL**, and **Network Security**
-- 🛠 Interested in building efficient backends and understanding encrypted traffic
+- 🌱 Currently learning **Spring Boot**, **Embedded system**
+- 🛠 Interested in building efficient backends and understanding low level architecture
 ---
 
 ## 📚 TECH STACKS
