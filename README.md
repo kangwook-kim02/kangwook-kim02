@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/github-k1mkangwook-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://k1mkangwook.tistory.com">
-    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo=blog&logoColor=white"/>
   </a>
 </p>
 
