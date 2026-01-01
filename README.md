@@ -18,20 +18,11 @@
   <a href="https://solved.ac/ices17">
     <img src="https://img.shields.io/badge/solved.ac-ices17-1e90ff?style=flat&logo=baidu&logoColor=white"/>
   </a>
-  <a href="https://github.com/k1mkangwook">
-    <img src="https://img.shields.io/badge/github-k1mkangwook-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
   <a href="https://k1mkangwook.tistory.com">
     <img src="https://img.shields.io/badge/blog-181717?style=flat&logo=blog&logoColor=white"/>
   </a>
 </p>
 
----
-
-### 🧠 About Me
-
-- 🌱 Currently learning **Spring Boot**, **Embedded system**
-- 🛠 Interested in building efficient backends and understanding low level architecture
 ---
 
 ## 📚 TECH STACKS
