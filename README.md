@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/solved.ac-ices17-1e90ff?style=flat&logo=baidu&logoColor=white"/>
   </a>
   <a href="https://k1mkangwook.tistory.com">
-    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo==readthedocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
