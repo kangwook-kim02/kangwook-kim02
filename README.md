@@ -1,6 +1,5 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Kangwook%20Kim&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=220&section=header&text=Kangwook%20Kim&desc=%20Programmer%20%7C%20Road%20to%20Expert&fontSize=48&descSize=20&fontColor=ffffff&fontAlignY=38&font=Montserrat"/>
 </div>
 
 <!-- linking -->
