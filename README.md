@@ -13,13 +13,15 @@
 <!-- 링크 뱃지 -->
 <p align="center">
   <a href="mailto:ices17@inha.edu">
-    <img src="https://img.shields.io/badge/email-ices17@inha.edu-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ices17@inha.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://solved.ac/ices17">
-    <img src="https://img.shields.io/badge/solved.ac-ices17-1e90ff?style=flat&logo=baidu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/solved.ac-ices17-3DB39E?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://k1mkangwook.tistory.com">
-    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo=readthedocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-Tistory-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
