@@ -1,4 +1,4 @@
-<!-- 헤더 배너 -->
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Kangwook%20Kim&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
@@ -19,30 +19,8 @@
     <img src="https://img.shields.io/badge/solved.ac-ices17-1e90ff?style=flat&logo=baidu&logoColor=white"/>
   </a>
   <a href="https://k1mkangwook.tistory.com">
-    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo=blog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/blog-181717?style=flat&logo==readthedocs&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📚 TECH STACKS
-
-### 🌐 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-### 🛠 Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</p>
-
-### 🗃️ Database
-<p align="center">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
