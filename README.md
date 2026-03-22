@@ -3,7 +3,7 @@
 - I aspire to become a developer who can have a positive impact on others.
 
 ## Academic Background
-- Undergraduate student in Computer Science and Engineering, Inha University, Incheon, Republic Of Korea (Feb. 2022 ~).
+- Undergraduate student in Computer Science and Engineering, Inha University, Incheon, Republic of Korea (Feb. 2022 ~).
 - Research: Multi-Task Learning for Encrypted Traffic Classification at [DNSLab](https://dnslab-inha.github.io/).
   - [Kangwook Kim and Prof. Heejun Roh’s paper](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577981) received an Undergraduate Outstanding Paper award from [KIISE](https://www.kiise.or.kr/academy/main/main.fa) [KSC 2025](https://www.kiise.or.kr/conference/KSC/2025/).
  
