@@ -8,7 +8,6 @@
   - [Kangwook Kim and Prof. Heejun Roh’s paper](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577981) received an Undergraduate Outstanding Paper award from [KIISE](https://www.kiise.or.kr/academy/main/main.fa) [KSC 2025](https://www.kiise.or.kr/conference/KSC/2025/).
  
 ## Interests
-- Web & Mobile Application Development
 - Machine Learning Fundamentals & Theory
 - Harness Engineering
 
