@@ -10,6 +10,7 @@
 ## Interests
 - Web & Mobile Application Development
 - Machine Learning Fundamentals & Theory
+- Harness Engineering
 
 ## Tech Stack
 - **Languages:** C++, Python, JavaScript (React), SQL
