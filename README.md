@@ -9,7 +9,7 @@
  
 ## Interests
 - Machine Learning Fundamentals & Theory
-- Harness Engineering
+- Agentic AI System Design·Multi-Agent Orchestration·LLM-powered Workflow Automation
 
 ## Contact
 <p align="left">
